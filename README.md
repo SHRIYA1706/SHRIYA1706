@@ -58,5 +58,5 @@
 
 <hr>
 
-### Connect with [me] on LinkedIn(https://www.linkedin.com/in/shriya-agrawal-5a660a187) 😄
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/shriya-agrawal-5a660a187) 😄
  

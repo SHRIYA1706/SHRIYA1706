@@ -19,6 +19,7 @@
   - Tech Enthusiast** 📚
   - GSSOC'22 Contributor✨
   - Reach out to me through mail 📫:- shriyaagrawal1706@gmail.com
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SHRIYA1706&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
   

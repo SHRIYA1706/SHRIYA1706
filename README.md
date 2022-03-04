@@ -3,14 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!I+am+Shriya+Agrawal"/>
 </p>
 <hr>
- ![Shriya](https://myoctocat.com/assets/images/base-octocat.svg)
-<p align="center">
+ 
+<p align="right">
 
   <em>
     A 4th year undergraduate pursuing B.Tech in Electrical Engineering from College of Engineering and Technology, Bhubaneswar. <br>
      <b>Learner | Editor | Coder | Web-Developer | Content Writer </b> <br>
-    <img src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611f9d486a02d550b7b4d6c064a8d29ea5a2841e74a&rid=giphy.gif&ct=g" width="440px"> <br>
-   
+   <img align="left" width=200px alt="Github Cat" src="https://myoctocat.com/assets/images/base-octocat.svg" />
+
+    <br>
+
     
   </em>
 </p>

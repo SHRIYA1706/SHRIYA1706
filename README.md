@@ -19,6 +19,10 @@
   - Tech Enthusiast** 📚
   - GSSOC'22 Contributor✨
   - Reach out to me through mail 📫:- shriyaagrawal1706@gmail.com
+  
+  
+  ## HAVE A LOOK AT MY GITHUB STREAK!
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SHRIYA1706&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
@@ -45,7 +49,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIYA1706&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
   
-[![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SHRIYA1706&theme=radical)](https://git.io/harshita214)
+[![Shriya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SHRIYA1706&theme=radical)](https://git.io/SHRIYA1706)
    <br />
 
 

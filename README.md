@@ -16,7 +16,7 @@
  
 <hr>
 
-  &nbsp;**_About me_**:)<br>
+  &nbsp;**_About me_** :)<br>
   ```
   - Pronouns: She/Her 👧
   - Tech Enthusiast 📚
@@ -61,4 +61,4 @@
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/shriya-agrawal-5a660a187) 😄
  
  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SHRIYA1706&repo=SHRIYA1706&countColorcountColor&countColor=%237B1E7B"/>
- <img align="right" src="https://rushter.com/counter.svg" height="42" width="42"/>
+ <img align="right" src="https://rushter.com/counter.svg" height="50" width="60"/>

@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP/giphy.gif" width="30px"> Hey! I am Shriya Agrawal
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> Hey! I am Shriya Agrawal
 <hr>
 
 <p align="center">
   <em>
     A 4th year undergraduate pursuing B.Tech in Electrical Engineering from College of Engineering and Technology, Bhubaneswar. <br>
      <b>Learner | Editor | Coder | Web-Developer | Content Writer </b> <br>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
+    <img src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611f9d486a02d550b7b4d6c064a8d29ea5a2841e74a&rid=giphy.gif&ct=g" width="440px"> <br>
    
     
   </em>

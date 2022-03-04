@@ -5,7 +5,6 @@
   <em>
     A 4th year undergraduate pursuing B.Tech in Electrical Engineering from College of Engineering and Technology, Bhubaneswar. <br>
      <b>Learner | Editor | Coder | Web-Developer | Content Writer </b> <br>
-    
     <img src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b7611f9d486a02d550b7b4d6c064a8d29ea5a2841e74a&rid=giphy.gif&ct=g" width="440px"> <br>
    
     

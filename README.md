@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!I+am+Shriya+Agrawal"/>
 </p>
 <hr>
-
+ ![Shriya](https://myoctocat.com/assets/images/base-octocat.svg)
 <p align="center">
 
   <em>

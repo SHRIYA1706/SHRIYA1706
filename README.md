@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> Hey! I am Shriya Agrawal
+<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23C3072F&center=true&lines=Hey!+I+am+Shriya+Agrawal)](https://git.io/typing-svg)
 <hr>
 
 <p align="center">

@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    A 4th year undergraduate pursuing B.Tech in Electrical from College of Engineering and Technology, Bhubaneswar. <br>
+    A 4th year undergraduate pursuing B.Tech in Electrical Engineering from College of Engineering and Technology, Bhubaneswar. <br>
      <b>Learner | Editor | Coder | Web-Developer | Content Writer </b> <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    

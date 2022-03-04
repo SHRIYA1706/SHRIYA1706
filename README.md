@@ -44,7 +44,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIYA1706&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
   
-[![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=harshita214&theme=radical)](https://git.io/harshita214)
+[![Harshita's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SHRIYA1706&theme=radical)](https://git.io/harshita214)
    <br />
 
 

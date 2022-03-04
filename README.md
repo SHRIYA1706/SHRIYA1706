@@ -4,7 +4,8 @@
 </p>
 <hr>
 
-<p align="center">
+<p align="right">
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
   <em>
     A 4th year undergraduate pursuing B.Tech in Electrical Engineering from College of Engineering and Technology, Bhubaneswar. <br>
      <b>Learner | Editor | Coder | Web-Developer | Content Writer </b> <br>

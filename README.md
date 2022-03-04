@@ -16,7 +16,7 @@
   &nbsp;**_About me_**:)<br>
   
   - Pronouns: She/Her 👧
-  - Tech Enthusiast** 📚
+  - Tech Enthusiast 📚
   - GSSOC'22 Contributor✨
   - Reach out to me through mail 📫:- shriyaagrawal1706@gmail.com
   

@@ -59,5 +59,4 @@
 <hr>
 
 ### Connect with [me](https://www.linkedin.com/in/shriya-agrawal-5a660a187) 😄
- <img src="https://media1.giphy.com/media/Zx0Ploq51axjKTZzgZ/giphy.gif?cid=790b76115778e9b5fe6fb66a47b943e507207cd149ebf7c4&rid=giphy.gif&ct=g" width="440px"> <br> 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SHRIYA1706&repo=harshita214&countColorcountColor&countColor=%237B1E7B"/>
+ 

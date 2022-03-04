@@ -52,4 +52,4 @@
 
 ### Connect with [me](https://www.linkedin.com/in/shriya-agrawal-5a660a187) 😄
   
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=harshita214&repo=harshita214&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SHRIYA1706&repo=harshita214&countColorcountColor&countColor=%237B1E7B"/>
